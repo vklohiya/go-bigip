@@ -1,4 +1,4 @@
-module github.com/f5devcentral/go-bigip
+module github.com/vklohiya/go-bigip
 
 go 1.20
 

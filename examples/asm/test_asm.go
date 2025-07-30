@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/f5devcentral/go-bigip"
+	"github.com/vklohiya/go-bigip"
 )
 
 // testDosProfile tests CRUD operations for DOS profiles

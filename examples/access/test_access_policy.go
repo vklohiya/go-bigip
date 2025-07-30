@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/f5devcentral/go-bigip"
+	"github.com/vklohiya/go-bigip"
 )
 
 func testAccessPolicy(f5 *bigip.BigIP) {

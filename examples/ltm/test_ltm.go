@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/f5devcentral/go-bigip"
+	"github.com/vklohiya/go-bigip"
 )
 
 // testUDPProfile tests CRUD operations for UDP profiles
